@@ -20,7 +20,7 @@ All events use `addEventListener()` and all text updates use `textContent`.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/bic21203-lab4a-javascript.git
+   git clone https://github.com/Syawalfanz/bic21203-lab4a-javascript.git
    ```
 2. Open the folder in VS Code.
 3. Right-click `q1/index.html` → **Open with Live Server** (or simply double-click the file to open it in a browser).
